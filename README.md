@@ -8,7 +8,7 @@ I'm currently learning Java and MySQL.
 
 ## Technologies:
 
-(https://skillicons.dev/icons?i=java, cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)
 
 <!--
 **VelinovVasil/VelinovVasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
