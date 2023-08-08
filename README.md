@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Student @ SoftUni
 I'm currently learning Java and MySQL.
 
 ## Contacts 🔗
