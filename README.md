@@ -7,9 +7,9 @@ I'm currently learning Java and MySQL.
 
 ### LinkedIn: https://www.linkedin.com/in/vasil-velinov-9a0b27245/
 
-## Technologies:
+## Technologies 💻
 
-### Languages
+### Languages 🍵
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,cpp)](https://skillicons.dev)
 
