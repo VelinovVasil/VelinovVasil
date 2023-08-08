@@ -6,6 +6,10 @@ I'm currently learning Java and MySQL.
 
 ### LiknedIn: https://www.linkedin.com/in/vasil-velinov-9a0b27245/
 
+## Technologies:
+
+[![My Skills](https://skillicons.dev/icons?i=java, cpp)](https://skillicons.dev)
+
 <!--
 **VelinovVasil/VelinovVasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
