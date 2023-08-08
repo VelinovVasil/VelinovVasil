@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Student @ SoftUni
+Student @ SoftUni /n
 I'm currently learning Java and MySQL.
 
 ## Contacts 🔗
