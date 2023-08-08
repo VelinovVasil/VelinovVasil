@@ -10,11 +10,11 @@ I'm currently learning Java and MySQL.
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,cpp)](https://skillicons.dev)
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=idea,github,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,github)](https://skillicons.dev)
 
 
 <!--
