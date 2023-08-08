@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently learning Java and MySQL.
+#I'm currently learning Java and MySQL.
 
 
 <!--
