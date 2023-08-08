@@ -14,7 +14,7 @@ I'm currently learning Java and MySQL.
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,github,mysql)](https://skillicons.dev)
 
 
 <!--
