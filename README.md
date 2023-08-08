@@ -2,7 +2,7 @@
 
 I'm currently learning Java and MySQL.
 
-### Contacts:
+# Contacts:
 
 ## LiknedIn: https://www.linkedin.com/in/vasil-velinov-9a0b27245/
 
