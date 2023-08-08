@@ -4,7 +4,7 @@ I'm currently learning Java and MySQL.
 
 ## Contacts:
 
-### LiknedIn: https://www.linkedin.com/in/vasil-velinov-9a0b27245/
+### LinkedIn: https://www.linkedin.com/in/vasil-velinov-9a0b27245/
 
 ## Technologies:
 
