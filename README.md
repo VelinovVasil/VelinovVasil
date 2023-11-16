@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Student @ SoftUni <br>
-I'm currently learning Java and MySQL.
+Currently learning React.
 
 ## Contacts 🔗
 
