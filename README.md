@@ -11,7 +11,7 @@ Currently learning React.
 
 ### Languages 🍵
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,cpp,js,css)](https://skillicons.dev)
 
 ### Tools 🔧
 
