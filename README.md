@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Student @ SoftUni <br>
-Currently learning MySQL.
+Currently learning Spring.
 
 ## Contacts 🔗
 
