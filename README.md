@@ -11,7 +11,7 @@ Currently learning Spring.
 
 ### Languages 🍵
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,css,mysql,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql,cpp)](https://skillicons.dev)
 
 ### Tools 🔧
 
