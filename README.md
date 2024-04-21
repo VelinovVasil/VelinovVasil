@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Student @ SoftUni <br>
-Currently learning Spring.
+Web developer
 
 ## Contacts 🔗
 
@@ -9,13 +9,9 @@ Currently learning Spring.
 
 ## Technologies 💻
 
-### Languages 🍵
+### Languages and Technologies: 🍵
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql,cpp)](https://skillicons.dev)
-
-### Tools 🔧
-
-[![My Skills](https://skillicons.dev/icons?i=idea,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,spring,reacthtml,css,hibernate,mysql,postman,idea)](https://skillicons.dev)
 
 
 <!--
