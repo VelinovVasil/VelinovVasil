@@ -9,8 +9,6 @@ Web developer
 
 ## Technologies 💻
 
-### Languages and Technologies: 🍵
-
 [![My Skills](https://skillicons.dev/icons?i=java,js,spring,react,html,css,hibernate,mysql,postman,idea)](https://skillicons.dev)
 
 
