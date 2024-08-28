@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-Student @ SoftUni <br>
 Web developer
 
 ## Contacts 🔗
